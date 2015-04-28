@@ -8,17 +8,17 @@ api = "2"
 projects[] = "drupal"
 
 ; Installation profile
-;projects[aizen][type] = "profile"
-;projects[aizen][download][type] = "git"
-;projects[aizen][download][url] = "git@bitbucket.org:gaxze/aizen.git"
-;projects[aizen][download][branch] = "master"
+projects[aizen][type] = "profile"
+projects[aizen][download][type] = "git"
+projects[aizen][download][url] = "git@github.com:GaxZE/aizen.git"
+projects[aizen][download][branch] = "master"
 
 ; Theme
 projects[] = "zen"
-;projects[rukia][type] = "theme"
-;projects[rukia][download][type] = "git"
-;projects[rukia][download][url] = "git@bitbucket.org:gaxze/rukia.git"
-;projects[rukia][download][branch] = "master"
+projects[rukia][type] = "theme"
+projects[rukia][download][type] = "git"
+projects[rukia][download][url] = "git@github.com:GaxZE/rukia.git"
+projects[rukia][download][branch] = "master"
 
 ; Contrib
 projects[admin_menu][subdir] = "contrib"
