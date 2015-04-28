@@ -22,7 +22,6 @@ projects[rukia][download][branch] = "master"
 
 ; Contrib
 projects[admin_menu][subdir] = "contrib"
-projects[admin_menu_toolbar][subdir] = "contrib"
 projects[admin_views][subdir] = "contrib"
 projects[better_exposed_filters][subdir] = "contrib"
 projects[backup_migrate][subdir] = "contrib"
