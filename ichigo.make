@@ -38,7 +38,7 @@ projects[entity][subdir] = "contrib"
 projects[entityreference][subdir] = "contrib"
 
 projects[fences][subdir] = "contrib"
-projects[fences][version] = = "1.x-dev"
+projects[fences][version] = "1.x-dev"
 
 projects[field_display_label][subdir] = "contrib"
 projects[field_formatter_settings][subdir] = "contrib"
