@@ -70,6 +70,8 @@ projects[webform][subdir] = "contrib"
 
 ;MEDIA RELATED
 projects[wysiwyg][subdir] = "contrib"
+projects[wysiwyg][version] = "2.x-dev"
+
 projects[file_entity][subdir] = "contrib"
 projects[imce][subdir] = "contrib"
 projects[imce_mkdir][subdir] = "contrib"
