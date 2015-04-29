@@ -100,6 +100,6 @@ projects[masquerade][subdir] = "dev"
 projects[diff][subdir] = "dev"
 
 ; Libraries
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.7/ckeditor_4.4.7_full.zip"
-libraries[ckeditor][directory_name] = "ckeditor"
+libraries[tinymce][download][type] = "get"
+libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_4.1.9.zip"
+libraries[tinymce][directory_name] = "tinymce"
