@@ -101,5 +101,5 @@ projects[diff][subdir] = "dev"
 
 ; Libraries
 libraries[tinymce][download][type] = "get"
-libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_4.1.9.zip"
+libraries[tinymce][download][url] = "http://download.moxiecode.com/tinymce/tinymce_3.5.11.zip"
 libraries[tinymce][directory_name] = "tinymce"
